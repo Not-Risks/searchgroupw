@@ -3,10 +3,11 @@ Este script busca enlaces de grupos de Whatsapp mediante fuerza bruta, aun es un
 
 # Comandos para la instalación
 1.apt update 
+
 2.apt-get upgrade 
 -apt install git
 -apt install python
 -git clone https://github.com/Not-Risks/searchgroupw
 -cd searchgroupw
 -pip install -r requirements.txt
--python searchgroup.py
+-python searchgroupw.py
